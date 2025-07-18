@@ -1,0 +1,13 @@
+Reference,Qty,DNP,Exclude from BOM,Exclude from Board,Footprint,Manufacturer,POFarnell,POMouser,MPN
+A1,1,,Excluded from BOM,,Module:Arduino_UNO_R3,,,,
+C1,1,,,,Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,Samsung Electro-mechanics,3013521,187-CL31B104KBCNNNC,CL31B104KBCNNNC
+"C2,C3",2,,,,Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,KYOCERA AVX,2852729,581-TAJB106M025RNJ,TAJB106M025RNJ
+"D1,D2",2,,,,Diode_SMD:D_SMB,STMicroelectronics,1467550,511-STPS1L30U,STPS1L30U
+"H1,H2,H3,H4",4,,Excluded from BOM,,MountingHole:MountingHole_3.2mm_M3_DIN965,,,,
+J1,1,,,,Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical,,,,
+J2,1,,,,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Horizontal,,,,
+J3,1,,,,Connector_BarrelJack:BarrelJack_Horizontal,GCT,3873896,640-DCJ235-05-A-K1-K,DCJ235-05-A-K1-K
+M1,1,,,,Library:RaspberryPi_Pico,,,,
+SW1,1,,,,Library:Button_Omron_B3SN_6.0x6.0mm,C&K,3941499, 611-PTS526SM20S21LFS,PTS526SM20SMTR21
+U1,1,,,,Package_SO:SOIC-16_3.9x9.9mm_P1.27mm,Nexperia,3441376,771-LV4053D118,"74LV4053D,118 "
+U2,1,,,,Package_TO_SOT_SMD:SOT-223-3_TabPin2,Texas Instruments,3122345,595-TLV1117-50IDCYR,TLV1117-50IDCYR
